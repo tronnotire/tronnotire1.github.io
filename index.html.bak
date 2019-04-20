@@ -80,11 +80,12 @@
 
 				<p class="s2-txt3 p-t-18">
 					And don’t worry, we hate spam too! You can unsubcribe at anytime.
-				</p>
+									</p>
+				<p><a href="https://www.facebook.com/tronnotire/" target="_blank">Visit our Facebook Page</a></p>
 			</div>
 
 			<div class="flex-w">
-				<a href="facebook.com/tronnotire" class="flex-c-m size5 bg3 how1 trans-04 m-r-5">
+				<a href="www.facebook.com/tronnotire" target="_blank" class="flex-c-m size5 bg3 how1 trans-04 m-r-5">
 					<i class="fa fa-facebook"></i>
 				</a>
 
